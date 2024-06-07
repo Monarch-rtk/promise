@@ -1,10 +1,5 @@
-var a = "Rainal"
-switch (a) {
-    case "Rainal":
-        console.log("Node js dev");
-        break;
-
-    default:
-        console.log("wrong ip ");
-        break;
+j=0
+while(j<=20){
+    console.log(j);
+    j++
 }
