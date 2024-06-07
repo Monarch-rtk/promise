@@ -1,7 +1,10 @@
-var details={
-    name: "Rainal",
-    age:24,
-    place: "Ernakulam"
+var a = "Rainal"
+switch (a) {
+    case "Rainal":
+        console.log("Node js dev");
+        break;
+
+    default:
+        console.log("wrong ip ");
+        break;
 }
-details.place= "Kochi"
-console.log(details);
